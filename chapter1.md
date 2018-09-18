@@ -42,7 +42,7 @@ This is the home of the reference C python \(python implementation written in C\
 
 Other implementations exist in other languages such as Java and .net
 
-:exclamation: Install it somware easy like c:\python37
+:exclamation: Install it somewhere easy like c:\python37
 
 ### WinGit
 
