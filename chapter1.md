@@ -30,6 +30,8 @@ To learn the basics of the Python programming language we will be using the Code
 
 This provides an excellent resouce for learning the fundementles of python in small snippets but does not cover the issues of writing and running programs on your local machine. You can log onto Codecademy using your google account for authentication.
 
+:exclamation: Always read the Terms & Conditions
+
 ### Python
 
 For this course we will be using python 3.7.x. Python 3.7 is at time of writing the most up-to-date stable python development branch. Python can be downloaded from here:
@@ -62,9 +64,7 @@ Once installed you need to add at least the Microsoft Python plug-ins. See below
 
 We will be using the unit test module supplied with Python
 
-Source code repository
-
-
+### Source code repository
 
 
 
