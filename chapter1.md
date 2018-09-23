@@ -4,7 +4,7 @@
 
 ### Introduction
 
-During this course we will be using free resources to learn python. Along with the task of learning the language we will also cover the wider subject of what it is to be a developer. For the simple semantics of the language we will be using codecademy. Codecademy is great as a learning resource for the language but it is no good for attempting to write your own programs that you can use locally. For developing locally we will be installing a developer tool-chain including:
+During this course we will be using free resources to learn python. Along with the task of learning the language we will also cover the wider subject of what it is to be a developer. For the simple semantics of the language we will be using CodeCademy. CodeCademy is great as a learning resource for the language but it is no good for attempting to write your own programs that you can use locally. For developing locally we will be installing a developer tool-chain including:
 
 * The python runtime
 * An IDE
@@ -16,7 +16,7 @@ Throughout we will be using open source software
 
 ### Gmail
 
-To log on to services such as Codecademy \(learning platform\) and Github \(source control\) it is handy to have a common source of authentication. For this we will be using Gmail. If you do not already have a Gmail account get one for free.
+To log on to services such as CodeCademy \(learning platform\) and Github \(source control\) it is handy to have a common source of authentication. For this we will be using Gmail. If you do not already have a Gmail account get one for free.
 
 [Sign up at https://mail.google.com](https://mail.google.com)
 
@@ -70,17 +70,17 @@ There is an excellent guide to setting it all up to work together here:
 
 ### Learning environment
 
-To learn the basics of the Python programming language we will be using the Codecademy website
+To learn the basics of the Python programming language we will be using the CodeCademy website
 
-[https://www.codecademy.com/learn/learn-python](https://www.codecademy.com/learn/learn-python)
+[https://www.CodeCademy.com/learn/learn-python](https://www.CodeCademy.com/learn/learn-python)
 
-This provides an excellent resource for learning the fundamentals of python in small snippets but does not cover the issues of writing and running programs on your local machine. You can log onto Codecademy using your google account for authentication.
+This provides an excellent resource for learning the fundamentals of python in small snippets but does not cover the issues of writing and running programs on your local machine. You can log onto CodeCademy using your google account for authentication.
 
 :exclamation: Always read the Terms & Conditions
 
 ### A Byte of python
 
-Although Codecademy give a nice structured introduction to python it does not cover the wider skills of creating and running and maintaining your own python programs. A Byte of python will be our road-map towards becoming competent local developer.
+Although CodeCademy give a nice structured introduction to python it does not cover the wider skills of creating and running and maintaining your own python programs. A Byte of python will be our road-map towards becoming competent local developer.
 
 [https://python.swaroopch.com/](https://python.swaroopch.com/)
 
