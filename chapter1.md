@@ -22,16 +22,6 @@ To log on to services such as Codecademy \(learning platform\) and Github \(sour
 
 :exclamation: Always read the Terms & Conditions
 
-### Learning environment
-
-To learn the basics of the Python programming language we will be using the Codecademy website
-
-[https://www.codecademy.com/learn/learn-python](https://www.codecademy.com/learn/learn-python)
-
-This provides an excellent resouce for learning the fundementles of python in small snippets but does not cover the issues of writing and running programs on your local machine. You can log onto Codecademy using your google account for authentication.
-
-:exclamation: Always read the Terms & Conditions
-
 ### Python
 
 For this course we will be using python 3.7.x. Python 3.7 is at time of writing the most up-to-date stable python development branch. Python can be downloaded from here:
@@ -66,5 +56,49 @@ We will be using the unit test module supplied with Python
 
 ### Source code repository
 
+For our source code repository we will be using github. Github is a free resource for open source programmers. It is used for collaboration on software projects.
 
+[https://github.com/](https://github.com/)
+
+## Setting it all up
+
+There is an excellent guide to setting it all up to work together here:
+
+[https://code.visualstudio.com/docs/languages/python](https://code.visualstudio.com/docs/languages/python)
+
+## Learning resources
+
+### Learning environment
+
+To learn the basics of the Python programming language we will be using the Codecademy website
+
+[https://www.codecademy.com/learn/learn-python](https://www.codecademy.com/learn/learn-python)
+
+This provides an excellent resouce for learning the fundementles of python in small snippets but does not cover the issues of writing and running programs on your local machine. You can log onto Codecademy using your google account for authentication.
+
+:exclamation: Always read the Terms & Conditions
+
+### A Byte of python
+
+Although Codecademy give a nice structured introduction to python it does not cover the wider skills of creating and running and maintaining your own python programs. A Byte of python will be our rodmap towards becomming competent local developer.
+
+[https://python.swaroopch.com/](https://python.swaroopch.com/)
+
+Google 
+
+[https://developers.google.com/edu/python/](https://developers.google.com/edu/python/)
+
+### YouTube
+
+[Learn Python - Full Course for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw)
+
+[Python Programming](https://www.youtube.com/watch?v=N4mEzFDjqtA)
+
+### Learning Git
+
+git is the source code management tool we will be using. Even for a single user git is invaluble as ti allows you to jot down your thoughtas as you program as well as allowing you to try different aproches to a problem with the safety net of being able to roll back.
+
+[https://learngitbranching.js.org/](https://learngitbranching.js.org/)
+
+Whatever you code with Git is awsome
 
