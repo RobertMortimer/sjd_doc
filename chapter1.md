@@ -4,7 +4,7 @@
 
 ### Introduction
 
-During this course we will be using free resources to learn python. Along with the task of learning the language we will also cover the wider subject of what it is to be a developer. For the simple smantics of the language we will be using codecademy. Codecademy is great as a learning resource for the language but it is no good for attempting to write your own programs that you can use localy. For developiing localy we will be installing a developer toolchain including:
+During this course we will be using free resources to learn python. Along with the task of learning the language we will also cover the wider subject of what it is to be a developer. For the simple semantics of the language we will be using codecademy. Codecademy is great as a learning resource for the language but it is no good for attempting to write your own programs that you can use locally. For developing locally we will be installing a developer tool-chain including:
 
 * The python runtime
 * An IDE
@@ -16,7 +16,7 @@ Throughout we will be using open source software
 
 ### Gmail
 
-To log on to services such as Codecademy \(learning platform\) and Github \(source control\) it is handy to have a common source of authentication. For this we will be using Gmail. If you do not already have a gmail account get one for free.
+To log on to services such as Codecademy \(learning platform\) and Github \(source control\) it is handy to have a common source of authentication. For this we will be using Gmail. If you do not already have a Gmail account get one for free.
 
 [Sign up at https://mail.google.com](https://mail.google.com)
 
@@ -36,13 +36,13 @@ Other implementations exist in other languages such as Java and .net
 
 ### WinGit
 
-WinGit is the main windows implementation of the Git source control system originaly started by Linus Torvalds \(leader of the Linux kernel project\). Visual studio rests on WinGit for it's source control functions and as a result it is cleaner to install it before Visual Studio.
+WinGit is the main windows implementation of the Git source control system originally started by Linus Torvalds \(leader of the Linux kernel project\). Visual studio rests on WinGit for it's source control functions and as a result it is cleaner to install it before Visual Studio.
 
 [https://git-scm.com/download/win](https://git-scm.com/download/win)
 
 ### Visual Studio
 
-Visual studio is an opensource IDE written by microsoft provide and entry point to programming in the Microsoft ecosystem that could compete with other open source IDEs such and Atom and Eclipse. It can be found here.
+Visual studio is an open-source IDE written by microsoft provide and entry point to programming in the Microsoft ecosystem that could compete with other open source IDEs such and Atom and Eclipse. It can be found here.
 
 [https://code.visualstudio.com/updates/v1\_27](https://code.visualstudio.com/updates/v1_27)
 
@@ -74,13 +74,13 @@ To learn the basics of the Python programming language we will be using the Code
 
 [https://www.codecademy.com/learn/learn-python](https://www.codecademy.com/learn/learn-python)
 
-This provides an excellent resouce for learning the fundementles of python in small snippets but does not cover the issues of writing and running programs on your local machine. You can log onto Codecademy using your google account for authentication.
+This provides an excellent resource for learning the fundamentals of python in small snippets but does not cover the issues of writing and running programs on your local machine. You can log onto Codecademy using your google account for authentication.
 
 :exclamation: Always read the Terms & Conditions
 
 ### A Byte of python
 
-Although Codecademy give a nice structured introduction to python it does not cover the wider skills of creating and running and maintaining your own python programs. A Byte of python will be our rodmap towards becomming competent local developer.
+Although Codecademy give a nice structured introduction to python it does not cover the wider skills of creating and running and maintaining your own python programs. A Byte of python will be our road-map towards becoming competent local developer.
 
 [https://python.swaroopch.com/](https://python.swaroopch.com/)
 
@@ -96,9 +96,9 @@ Google
 
 ### Learning Git
 
-git is the source code management tool we will be using. Even for a single user git is invaluble as ti allows you to jot down your thoughtas as you program as well as allowing you to try different aproches to a problem with the safety net of being able to roll back.
+git is the source code management tool we will be using. Even for a single user git is invaluable as ti allows you to jot down your thoughts as you program as well as allowing you to try different approaches to a problem with the safety net of being able to roll back.
 
 [https://learngitbranching.js.org/](https://learngitbranching.js.org/)
 
-Whatever you code with Git is awsome
+Whatever you code with Git is awesome
 
