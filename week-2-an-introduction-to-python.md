@@ -52,7 +52,7 @@ In the game of 20 questions the player gets 20 questions to go down a decision t
 
 
 |  |  |  |  |  |  |  |  |  |
-| :--- | :- | :--- | :- | :--- | :- | :--- | :- | :--- |
+| :--- | | :--- | | :--- | | :--- | | :--- |
 |  |  |  |  |  |  |  | Y | Clown Fish |
 |  |  |  |  |  | Y | Is it tropical |  |  |
 |  |  |  |  |  |  |  | N | Cod |
