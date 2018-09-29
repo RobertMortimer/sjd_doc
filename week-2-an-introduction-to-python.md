@@ -52,3 +52,125 @@ In the game of 20 questions the player gets 20 questions to go down a decision t
 
 
 
+
+
+|  |  |  |  |  |  |  | Y | Clown Fish |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+|  |  |  |  |  | Y | Is it tropical |  |  |
+|  |  |  |  |  |  |  | N | Cod |
+|  |  |  | Y | Can it live in salt water |  |  |  |  |
+|  |  |  |  |  |  |  | Y | Roach |
+|  |  |  |  |  | N | Is it a native to the UK |  |  |
+|  |  |  |  |  |  |  | N | candiru |
+|  | Y | Is it a fish |  |  |  |  |  |  |
+|  |  |  |  |  |  |  | Y | Dolphin |
+|  |  |  |  |  | Y | Does it give birth in water |  |  |
+|  |  |  |  |  |  |  | N | Seal |
+|  |  |  | N | Is it a mammal |  |  |  |  |
+|  |  |  |  |  |  |  | Y | Penguin |
+|  |  |  |  |  | N | Is it a bird |  |  |
+|  |  |  |  |  |  |  | N | Frog |
+| Is it an aquatic animal |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  | Y | Cow |
+|  |  |  |  |  | Y | Do people eat them |  |  |
+|  |  |  |  |  |  |  | N | Possum |
+|  |  |  | Y | Is it a herbivore |  |  |  |  |
+|  |  |  |  |  |  |  | Y | Tiger |
+|  |  |  |  |  | N | Is it a cat |  |  |
+|  |  |  |  |  |  |  | N | Dog |
+|  | N | Is it a mammal |  |  |  |  |  |  |
+|  |  |  |  |  |  |  | Y | Hawk |
+|  |  |  |  |  | Y | Is it a bird of Pray |  |  |
+|  |  |  |  |  |  |  | N | Sparrow |
+|  |  |  | N | is it a Bird |  |  |  |  |
+|  |  |  |  |  |  |  | Y | Frog |
+|  |  |  |  |  | N | Is it amphibious |  |  |
+|  |  |  |  |  |  |  | N | Grass snake |
+|  |  |  |  |  |  | Y | Clown Fish |
+|  |  |  |  |  | Y | Is it tropical |  |  |
+|  |  |  |  |  |  |  | N | Cod |
+|  |  |  | Y | Can it live in salt water |  |  |  |  |
+|  |  |  |  |  |  |  | Y | Roach |
+|  |  |  |  |  | N | Is it a native to the UK |  |  |
+|  |  |  |  |  |  |  | N | candiru |
+|  | Y | Is it a fish |  |  |  |  |  |  |
+|  |  |  |  |  |  |  | Y | Dolphin |
+|  |  |  |  |  | Y | Does it give birth in water |  |  |
+|  |  |  |  |  |  |  | N | Seal |
+|  |  |  | N | Is it a mammal |  |  |  |  |
+|  |  |  |  |  |  |  | Y | Penguin |
+|  |  |  |  |  | N | Is it a bird |  |  |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+
+
+|  |  |  |  |  |  |  | N | Frog |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+
+
+| Is it an aquaticanimal |  |  |  |  |  |  |  |  |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+
+
+|  |  |  |  |  |  |  | Y | Cow |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+
+
+|  |  |  |  |  | Y | Do people eat them |  |  |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+
+
+|  |  |  |  |  |  |  | N | Possum |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+
+
+|  |  |  | Y | Is it a herbivore |  |  |  |  |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+
+
+|  |  |  |  |  |  |  | Y | Tiger |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+
+
+|  |  |  |  |  | N | Is it a cat |  |  |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+
+
+|  |  |  |  |  |  |  | N | Dog |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+
+
+|  | N | Is it a mammal |  |  |  |  |  |  |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+
+
+|  |  |  |  |  |  |  | Y | Hawk |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+
+
+|  |  |  |  |  | Y | Is it a bird of Pray |  |  |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+
+
+|  |  |  |  |  |  |  | N | Sparrow |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+
+
+|  |  |  | N | is it a Bird |  |  |  |  |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+
+
+|  |  |  |  |  |  |  | Y | Frog |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+
+
+|  |  |  |  |  | N | Is it amphibious |  |  |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+
+
+|  |  |  |  |  |  |  | N | Grass snake |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+
+
+  
+
+
